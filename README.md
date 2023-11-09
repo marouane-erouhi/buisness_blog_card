@@ -26,3 +26,5 @@ This is one of the many challenges I'm doing to improve my frontend development 
 ## Other notes
 build with vite: `vite build --base="./"`
 - This links all static resources to the current directory of the built html
+
+![Screenshot](/screenshots/Buisness-blog-card.png)
