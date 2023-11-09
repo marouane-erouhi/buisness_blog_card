@@ -4,7 +4,7 @@ This is one of the many challenges I'm doing to improve my frontend development 
 
 ## Technologies used:
 - HTML
-- Tailwind (as a CSS replacment)
+- Tailwind (as a CSS replacement)
 - Vite (building the project and better development experience)
 - VS Code (text editor)
 - Github pages (deploy)
@@ -12,12 +12,13 @@ This is one of the many challenges I'm doing to improve my frontend development 
 ## What I learned:
 - Since this is one of the first times I've used tailwind, I got to learn it's basics
 - I used the tailwind documentation alot
+- Setting up custom colors in tailwind
 - It was much better for me to google for a CSS solution then a tailwind solution when I needed help; I think the tailwind solutions more often than not, led me astray
 
 ## Challenges and things to learn:
 1. I wasn't able to get tailwind to work properly with vite
-- I have it installed twice (one from npm and the other as cdn), I kept the the npm version since it alowed vs-code tailwind extention to work properly
-- I think I deleted the nessary files from the vite template to get it to work, I'll have to tackle this issue in the next project
+- I have it installed twice (one from npm and the other as cdn), I kept the the npm version since it allowed vs-code tailwind extension to work properly
+- I think I deleted the necessary files from the vite template to get it to work, I'll have to tackle this issue in the next project
 
 ## Things I want to check out later
 - I need to find a better way to deploy to github pages, since the manual copy of build files into the gh-pages branch seems sketchy
